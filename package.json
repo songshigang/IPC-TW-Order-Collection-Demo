@@ -1,0 +1,12 @@
+{
+  "name": "ipc-tw-capture-server",
+  "version": "1.0.0",
+  "description": "IPC TW Order Capture Backend Server",
+  "main": "capture-server.js",
+  "scripts": {
+    "start": "node capture-server.js"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
